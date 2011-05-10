@@ -1,0 +1,6 @@
+This tuturial is free to share: you can redistribute it or modify it under the terms of the GNU General Public License as published by the free software foundation. More licensing details are available in GNU General Public License.
+
+Varenya Prasad
+Ritu Pradhan
+CS177: Intro To Scientific Computing
+05/09/2011
